@@ -1,6 +1,6 @@
 
 
-<h1>DEFINIçÃO DO USUÁRIO DEFAULT NO MySQL</h1>
+<h1>DEFINIÇÃO DO USUÁRIO DEFAULT NO MySQL</h1>
 -- Cidades
 insert into cidades values (0, "Null", "XX");
 update cidades set id = 0 where id = 1;
